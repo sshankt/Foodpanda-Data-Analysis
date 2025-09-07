@@ -1,11 +1,11 @@
-🍴 Foodpanda Dataset Analysis
+## 🍴 Foodpanda Dataset Analysis
 📌 Overview
 
 This project focuses on analyzing the Foodpanda Dataset using Pandas, NumPy, and Matplotlib. The dataset contains customer, order, and restaurant details, allowing us to explore customer behavior, sales trends, and business insights.
 
 The goal is to apply data analysis techniques to extract meaningful patterns that can help improve decision-making in the food delivery business.
 
-📂 Dataset Information
+### 📂 Dataset Information
 
 The dataset contains the following key columns:
 
@@ -49,7 +49,7 @@ rating_date – Date of the rating
 
 delivery_status – Status of order delivery (Delivered/Cancelled/Delayed)
 
-🎯 Objectives of Analysis
+### 🎯 Objectives of Analysis
 
 With this dataset, we can explore:
 
@@ -65,7 +65,7 @@ Payment Trends – Popular payment methods among customers.
 
 Delivery & Ratings – How delivery status and ratings affect customer satisfaction.
 
-🛠 Tools & Libraries Used
+### 🛠 Tools & Libraries Used
 
 Python
 
@@ -75,7 +75,7 @@ Pandas – Data cleaning & analysis
 
 Matplotlib – Data visualization
 
-🚀 Next Steps
+### 🚀 Next Steps
 
 Perform data cleaning (handling missing values, correcting formats).
 
@@ -85,7 +85,7 @@ Derive business insights from the analysis.
 
 Share key findings for decision-making.
 
-📊 Example Visualizations
+### 📊 Example Visualizations
 
 Gender Distribution – Bar chart of male vs. female customers
 
