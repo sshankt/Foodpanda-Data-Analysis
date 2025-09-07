@@ -89,10 +89,10 @@ Share key findings for decision-making.
 
 Gender Distribution – Bar chart of male vs. female customers
 
-Follow me - https://www.linkedin.com/in/sshankt/
-
 Monthly Order Trend – Line chart of orders over time
 
 Top Restaurants – Bar chart of most ordered restaurants
 
 Payment Methods – Pie chart showing usage of UPI, COD, etc.
+
+Follow me - https://www.linkedin.com/in/sshankt/
