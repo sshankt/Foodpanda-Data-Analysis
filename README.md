@@ -4,7 +4,7 @@
 This project focuses on analyzing the Foodpanda Dataset using Pandas, NumPy, and Matplotlib. The dataset contains customer, order, and restaurant details, allowing us to explore customer behavior, sales trends, and business insights.
 
 The goal is to apply data analysis techniques to extract meaningful patterns that can help improve decision-making in the food delivery business.
-
+![](https://github.com/sshankt/Foodpanda-Data-Analysis/blob/main/foodpanda.jpg)
 ## 📂 Dataset Information
 
 The dataset contains the following key columns:
